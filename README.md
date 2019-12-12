@@ -3,7 +3,9 @@
 Main entities:
 
 Page - has regions
+
 Regions - are invisible - they are placeholders for components specified on Page Instances
+
 
 ```
 +------------------------------------+

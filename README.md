@@ -1,5 +1,7 @@
 # Composable React Pages - CORP
 
+Provides a framework for implementing a page / site builder tool with React components.
+
 Main entities:
 
 Page - has regions
